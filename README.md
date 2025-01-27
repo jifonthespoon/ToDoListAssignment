@@ -28,4 +28,4 @@ may add more views, view modifiers, functions, and files as needed.
 
 ## Submission
 
-Place your completed assignment in a `.zip` file. Send this along with a recording of your app demonstrating the functionality to Sankaet on Discord.
+Place your completed assignment in a `.zip` file. Send this along with a recording of your app demonstrating the functionality to your Tech Lead on Discord.
