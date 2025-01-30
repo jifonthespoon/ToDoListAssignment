@@ -7,8 +7,6 @@ This assignment requires you to create a to-do list app with the following requi
 - [ ] Ability to select a list and view its items.
   - [ ] A toolbar button to add items to the selected list.
   - [ ] A button next to each item to toggle its completion status.
-- [ ] (EXTRA) Delete lists and items using a swipe gesture.
-- [ ] (EXTRA) Add animations to your list and/or buttons.
 
 ## Starter Code
 
